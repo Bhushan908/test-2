@@ -1,0 +1,6 @@
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\bin\Debug\MyModels.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\bin\Debug\MyModels.pdb
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\obj\Debug\MyModels.csproj.AssemblyReference.cache
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\obj\Debug\MyModels.csproj.CoreCompileInputs.cache
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\obj\Debug\MyModels.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyModels\obj\Debug\MyModels.pdb

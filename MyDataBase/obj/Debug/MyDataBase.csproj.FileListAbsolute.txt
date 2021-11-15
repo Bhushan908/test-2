@@ -1,0 +1,13 @@
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\MyDataBase.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\MyDataBase.pdb
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\obj\Debug\MyDataBase.csproj.AssemblyReference.cache
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\obj\Debug\MyDataBase.csproj.CoreCompileInputs.cache
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\obj\Debug\MyDataBase.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\obj\Debug\MyDataBase.pdb
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\MyDataBase.dll.config
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\EntityFramework.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\MyModels.dll
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\MyModels.pdb
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\EntityFramework.xml
+C:\Users\bhushan\source\repos\MVCTask4\MyDataBase\bin\Debug\EntityFramework.SqlServer.xml
